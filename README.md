@@ -19,3 +19,5 @@ A shortcut will automatically be created.
 - R = toggle invincibility
 - V = toggle apple eat sound
 - Space = mute/unmute music
+
+![snake_hungy](snake_hungy.gif)
